@@ -23,7 +23,7 @@ const menu = [
     {
       url: "#Login",
       name:"Login"
-    }
+    },
     {
       url: "#Login1",
       name:"Login1"
