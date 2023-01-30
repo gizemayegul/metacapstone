@@ -66,7 +66,7 @@ const Header = () =>{
             <nav>
               {/* Add social media links based on the `socials` data */}
               <HStack spacing='24px'>
-              <img src="Logo.svg" alt="logo"/>
+              <img src="Logo .svg" alt="logo"/>
               </HStack>
             </nav>
             <nav>
